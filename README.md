@@ -1,1 +1,1 @@
-# GitHub Repo Data Scraper (Python, C++, JavaScript, 2015–2024)
+# GitHub Repo Data Scraper
